@@ -1,4 +1,6 @@
-
+#EXTM3U 
+#EXTINF:-1 tvg-id="INTRO" group-title="INTRO" tvg-logo="https://i.upanh.org/2023/11/10/IMG_1697716675567_1699626202902-removebg-previewc8a65c2b98942e55.png",TỐNG PHƯỚC KHẢI chúc các bạn xem vui vẻ
+http://is.am/5mpp/intro
 
 #EXTINF:-1 group-title="Chuỗi Thức Ăn Tình Yêu" tvg-logo="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&no_expand=1&resize_h=0&rewriteMime=image/*&url=https://lh6.googleusercontent.com/ho6kJbSnOAMYkXvHnFlYRKU1oicR70uUS06lw2W71ctz-uhlwRuq_R8ydMuab458lQo", 01
 http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-chuoi-thuc-an-tinh-yeu/tap-1.html
