@@ -115,7 +115,7 @@ http://bentre5.hoangai.vn:8082/phim/tvb/sr.php?id=embed.streamc.xyz%2Fembed.php%
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Film/doi-dua-ma-vang-thumb.jpg", group-title="Đôi Đũa Mạ Vàng - Gilded Chopsticks", Tập 25
 http://bentre5.hoangai.vn:8082/phim/tvb/sr.php?id=embed.streamc.xyz%2Fembed.php%3Fhash%3Dc7226164438dcddfcad83c60e68ca6d4
 
-EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Film/noi-gian-atf-thumb.jpg", group-title="Nội gián ATF - Ruse of Engagement", Tập 1
+#EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Film/noi-gian-atf-thumb.jpg", group-title="Nội gián ATF - Ruse of Engagement", Tập 1
 http://bentre5.hoangai.vn:8082/phim/tvb/sr.php?id=embed.streamc.xyz%2Fembed.php%3Fhash%3D03ae3b9097b93fa78ef3581abbbee3b4
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Film/noi-gian-atf-thumb.jpg", group-title="Nội gián ATF - Ruse of Engagement", Tập 2
 http://bentre5.hoangai.vn:8082/phim/tvb/sr.php?id=embed.streamc.xyz%2Fembed.php%3Fhash%3Dc3419b381ecb96b4ac8c88e1774e2b27
