@@ -241,10 +241,6 @@ http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-te-c
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanyhoada.jpg" group-title="Thần Y Hoa Đà 2000",Thần Y Hoa  Đà Tập 1
 http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-than-y-hoa-da/tap-1.html
 #EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanyhoada.jpg" group-title="Thần Y Hoa Đà 2000",Thần Y Hoa  Đà Tập 2
@@ -289,46 +285,53 @@ http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-than
 
 
 
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 20
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-20.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 19
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-19.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 18
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-18.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 17
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-17.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 16
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-16.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 15
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-15.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 14
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-14.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 13
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-13.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 12
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-12.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 11
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-11.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 10
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-10.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 9
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-9.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 8
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-8.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 7
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-7.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 6
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-6.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 5
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-5.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 4
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-4.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 3
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-3.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 2
-http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-2.html
-#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Tập 1
+
+
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 1
 http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-1.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 2
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-2.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 3
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-3.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 4
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-4.htm
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 5
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-5.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 6
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-6.htmll
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 7
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-7.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 8
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-8.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 9
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-9.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 10
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-10.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 11
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-11.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 12
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-12.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 13
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-13.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 14
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-14.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 15
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-15.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 16
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-16.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 17
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-17.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 18
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-18.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 19
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-19.html
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/thanhdaocongly.jpg" group-title="Thanh Đao Công Lý 2003",Thanh Đao Công Lý Tập 20
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-thanh-dao-cong-ly/tap-20.html
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://phim.nguonc.com/public/images/Film/san-dau-cuoc-doi-quyen-vuong-thumb.jpg", group-title="Sàn Đấu Cuộc Đời - Quyền Vương - Gloves Come Off",Sàn Đấu Cuộc Đời Tập 1
 http://bentre5.hoangai.vn:8082/phim/tvb/sr.php?id=embed.streamc.xyz%2Fembed.php%3Fhash%3Dc68b637ae7d5297b47052656a4b38654
