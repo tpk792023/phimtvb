@@ -2,6 +2,13 @@
 #EXTINF:-1 tvg-id="INTRO" group-title="INTRO" tvg-logo="https://i.upanh.org/2023/11/10/IMG_1697716675567_1699626202902-removebg-previewc8a65c2b98942e55.png",TỐNG PHƯỚC KHẢI chúc các bạn xem vui vẻ
 http://is.am/5mpp/intro
 
+
+#EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/lovothieulam.jpg" group-title="Lò Võ Thiếu Lâm 1993",Tập 1
+http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-lo-vo-thieu-lam/tap-1.html
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/dautri1.jpg" group-title="Đấu Trí 2008",Đấu Trí Tập 1
 http://bentre5.hoangai.vn:8082/phim/tvb/p.php?id=www.phimlongtieng.net/phim-dau-tri/tap-1.html
 #EXTINF:-1 tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/dautri1.jpg" group-title="Đấu Trí 2008",Đấu Trí Tập 2
